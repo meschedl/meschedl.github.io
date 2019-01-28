@@ -4,19 +4,16 @@ title: CV
 permalink: /CV/
 ---
 
-### How to contact me
-
-**Personal Email**
-[margaretschedl@gmail.com](mailto:margaretschedl@gmail.com)
-
-**URI Email**
-[meschedl@uri.edu](mailto:meschedl@uri.edu)
-
 ## <center>Margaret E. Schedl</center>
 <center>Department of Biological Sciences, CBLS 190</center>
 <center>University of Rhode Island</center>
 <center>120 Flagg Road, Kingston RI 02881</center>
 
+### <center>How to contact me</center>
+<center>**Personal Email**</center>
+<center>[margaretschedl@gmail.com](mailto:margaretschedl@gmail.com)</center>
+<center>**URI Email**</center>
+<center>[meschedl@uri.edu](mailto:meschedl@uri.edu)</center>
 
 ### Positions 
 
@@ -58,6 +55,10 @@ Computational
 - Familiar with Species Distribution Modeling (SDM) or Ecological Niche Modeling using Maxent in congruence with RStudio
 - Familar with the command line and git/GitHub
 
+Teaching
+- Started and lead Prada, Puritz, Putnam lab joint Journal Club weekly meetings (Fall 2018 to present)
+- Co-taught a multi-institutional DNA/mRNA library preparation workshop (January 2019)
+
 Other
 - Museum specimen preparation of bird skins
 - Rotifer culture growth and maintence
@@ -86,7 +87,17 @@ Distinction in the Senior Comprehensive project in Biology at Occidental College
 
 ### Mentoring
 
-Amy Zyck, University of Rhode Island PhD student (2018-present), Kevin Wong, University of Rhode Island PhD student (2018-present), Cassie Raker, University of Rhode Island PhD student (2018-present), Sam Gurr, University of Rhode Island PhD student (2018-present), Emma Strand, University of Rhode Island PhD student (present), Erin Chille, University of Rhode Island undergraduate (2018-Present), Marygrace Trousdell, University of Rhode Island undergraduate (2018-Present), Myles Wagner, University of Rhode Island undergraduate (2018-present), Miles Collins, Occidental College undergraduate (2018), Emily Yue Liang, Occidental College undergraduate (2018), Leeza Lu, Occidental College undergraduate (2018)
+Amy Zyck, University of Rhode Island PhD student (2018-present)
+Kevin Wong, University of Rhode Island PhD student (2018-present) 
+Cassie Raker, University of Rhode Island PhD student (2018-present) 
+Sam Gurr, University of Rhode Island PhD student (2018-present)
+Emma Strand, University of Rhode Island PhD student (present)
+Erin Chille, University of Rhode Island undergraduate (2018-Present)
+Marygrace Trousdell, University of Rhode Island undergraduate (2018-Present)
+Myles Wagner, University of Rhode Island undergraduate (2018-present)
+Miles Collins, Occidental College undergraduate (2018)
+Emily Yue Liang, Occidental College undergraduate (2018)
+Leeza Lu, Occidental College undergraduate (2018)
 
 
 
