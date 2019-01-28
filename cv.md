@@ -9,11 +9,11 @@ permalink: /CV/
 <center>University of Rhode Island</center>
 <center>120 Flagg Road, Kingston RI 02881</center>
 
-### <center>How to contact me</center>
-<center>**Personal Email**</center>
-<center>[margaretschedl@gmail.com](mailto:margaretschedl@gmail.com)</center>
-<center>**URI Email**</center>
-<center>[meschedl@uri.edu](mailto:meschedl@uri.edu)</center>
+### How to contact me
+**Personal Email**
+[margaretschedl@gmail.com](mailto:margaretschedl@gmail.com)
+**URI Email**
+[meschedl@uri.edu](mailto:meschedl@uri.edu)
 
 ### Positions 
 
