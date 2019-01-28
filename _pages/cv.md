@@ -8,6 +8,7 @@ permalink: /CV/
 
 **Personal Email**
 [margaretschedl@gmail.com](mailto:margaretschedl@gmail.com)
+
 **URI Email**
 [meschedl@uri.edu](mailto:meschedl@uri.edu)
 
@@ -70,6 +71,7 @@ Other
 
 #### Posters
 2018 **Margaret E. Schedl**, Whitney L.E. Tsai, James M. Maley & John E. McCormack, Comparison of DNA extraction methods from museum specimens. American Ornithological Society Conference, Tucson, Arizona, USA. 
+
 2018 Leeza L. Lu, James M. Maley, Whitney L.E. Tsai, **Margaret E. Schedl**, John E. McCormack, Morphological Variation in the Spot-crowned Woodcreeper, Summer Undergraduate Research Symposium, Occidental College, Los Angeles, California, USA. 
 
 #### Other
