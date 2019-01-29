@@ -57,6 +57,9 @@ navbar-img: "/img/navbar.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
+#change blog to other page?
+paginate_path: "/blog/page:num/"
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
