@@ -4,6 +4,7 @@ title: Review of On the Origin of Species
 subtitle: Something I put up on Goodreads and decided to expan here
 permalink: /Blog
 tags: [books, Darwin, review]
+show-avatar: false
 ---
 
 ## Raw text from Goodreads
