@@ -23,7 +23,7 @@ description: It Me!
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "about"
+  about: "about"
   Blog: "Blog"
   Journal Club: "JC"
   Photography: "http://mschedlphotography.com"
