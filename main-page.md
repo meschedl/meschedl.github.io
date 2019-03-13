@@ -3,6 +3,7 @@ layout: page
 title: Maggie Schedl
 permalink: /
 ---
+
 <center>![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")<center>
 
 # <center>Scientist and artist living in Rhode Island<center>
@@ -12,4 +13,4 @@ permalink: /
 ### <center>[Puritz Lab](http://www.marineevoeco.com/)<center>
 ### <center>[Prada Lab](https://www.carlosprada.org/)<center>
 
-why are you not working 
+why are you not working
