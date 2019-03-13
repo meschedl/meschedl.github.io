@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /CV/
+title: About
+permalink: /about/
 ---
 
 ## <center>Margaret E. Schedl</center>
@@ -15,7 +15,7 @@ permalink: /CV/
 **URI Email**
 [meschedl@uri.edu](mailto:meschedl@uri.edu)
 
-### Positions 
+### Positions
 
 Time|Position| Affiliation
 --|--|--
@@ -50,7 +50,7 @@ Laboratory
 - Microinjections of florescently labeled RNA for confocal imaging of zebrafish embryos
 
 Computational
-- Proficiency with RStudio 
+- Proficiency with RStudio
 - Knowlege of most basic statistical methods used in biological data and how to implment them in RStudio
 - Familiar with Species Distribution Modeling (SDM) or Ecological Niche Modeling using Maxent in congruence with RStudio
 - Familar with the command line and git/GitHub
@@ -65,15 +65,15 @@ Other
 - Zebrafish tank system care, feeding, breeding, and maintenance
 - Feeding and milking venom of cone snails
 - Museum collection database management, curation, and verification for marine gastropods and birds
-- Preparation and imaging micro-mollusk specimens with scanning electron microsopy 
+- Preparation and imaging micro-mollusk specimens with scanning electron microsopy
 
 
 ### Presentations and Awards
 
 #### Posters
-2018 **Margaret E. Schedl**, Whitney L.E. Tsai, James M. Maley & John E. McCormack, Comparison of DNA extraction methods from museum specimens. American Ornithological Society Conference, Tucson, Arizona, USA. 
+2018 **Margaret E. Schedl**, Whitney L.E. Tsai, James M. Maley & John E. McCormack, Comparison of DNA extraction methods from museum specimens. American Ornithological Society Conference, Tucson, Arizona, USA.
 
-2018 Leeza L. Lu, James M. Maley, Whitney L.E. Tsai, **Margaret E. Schedl**, John E. McCormack, Morphological Variation in the Spot-crowned Woodcreeper, Summer Undergraduate Research Symposium, Occidental College, Los Angeles, California, USA. 
+2018 Leeza L. Lu, James M. Maley, Whitney L.E. Tsai, **Margaret E. Schedl**, John E. McCormack, Morphological Variation in the Spot-crowned Woodcreeper, Summer Undergraduate Research Symposium, Occidental College, Los Angeles, California, USA.
 
 #### Other
 _Talk_ 2018 Devon A. DeRaad, **Margaret E. Schedl**, James M. Maley3 Whitney L.E. Tsai, John E. McCormack, Reappraising biodiversity in the _Aphelocoma_ jays, Kansas Ornithological Society Meeting, Lawrence, Kansas, USA.
@@ -88,8 +88,8 @@ Distinction in the Senior Comprehensive project in Biology at Occidental College
 ### Mentoring
 
 Amy Zyck, University of Rhode Island PhD student (2018-present)
-Kevin Wong, University of Rhode Island PhD student (2018-present) 
-Cassie Raker, University of Rhode Island PhD student (2018-present) 
+Kevin Wong, University of Rhode Island PhD student (2018-present)
+Cassie Raker, University of Rhode Island PhD student (2018-present)
 Sam Gurr, University of Rhode Island PhD student (2018-present)
 Emma Strand, University of Rhode Island PhD student (present)
 Erin Chille, University of Rhode Island undergraduate (2018-Present)
@@ -98,8 +98,3 @@ Myles Wagner, University of Rhode Island undergraduate (2018-present)
 Miles Collins, Occidental College undergraduate (2018)
 Emily Yue Liang, Occidental College undergraduate (2018)
 Leeza Lu, Occidental College undergraduate (2018)
-
-
-
-
-
