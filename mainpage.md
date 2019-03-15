@@ -8,13 +8,18 @@ permalink: /
 # Scientist and artist living in Rhode Island
 ## Lab Manager and Research Assistant for the Putnam, Puritz, and Prada Labs at the University of Rhode Island
 
+------------------------
+
 ### [Putnam Lab](http://putnamlab.com/)
 ### [Puritz Lab](http://www.marineevoeco.com/)
 ### [Prada Lab](https://www.carlosprada.org/)
 
+------------------------
+
 ## Current Projects
 
 ### I am taking 2 graduate classes this semester! Check out their GitHub repos:
+
 Using Genomic Techniques to Examine the Evolution of Populations [HERE](https://github.com/jpuritz/BIO_594_2019)
 
 Evolutionary and Ecological Genomics [HERE](https://github.com/pradac/BIO594_2019)
