@@ -42,7 +42,7 @@ Date|Position| Affiliation
 Laboratory
 - DNA and RNA extraction of avian tissue and oyster larvae using Zymo Research and Qaigen kits
 - Historical DNA extraction with phenol chloroform and cryogenic extraction
-- Gel eletrophoresis, Qubit and TapeStation analysis of DNA and RNA
+- Gel electrophoresis, Qubit and TapeStation analysis of DNA and RNA
 - Serapure, KAPA Pure, mRNA and Strepavadin bead cleaning of DNA/RNA
 - Library preparation of avian DNA for illumina HiSeq Next Generation Sequencing using Ultra Conserved Elements
 - Expressed Exome Capture Sequencing (EecSeq) preparation of larval oysters
@@ -51,21 +51,18 @@ Laboratory
 
 Computational
 - Proficiency with RStudio
-- Knowlege of most basic statistical methods used in biological data and how to implment them in RStudio
+- Knowlege of most basic statistical methods used in biological data and how to implement them in RStudio
 - Familiar with Species Distribution Modeling (SDM) or Ecological Niche Modeling using Maxent in congruence with RStudio
-- Familar with the command line and git/GitHub
+- Familiar with the command line and git/GitHub
 
-Teaching
-- Started and lead Prada, Puritz, Putnam lab joint Journal Club weekly meetings (Fall 2018 to present)
-- Co-taught a multi-institutional DNA/mRNA library preparation workshop (January 2019)
 
 Other
 - Museum specimen preparation of bird skins
-- Rotifer culture growth and maintence
+- Rotifer culture growth and maintenance
 - Zebrafish tank system care, feeding, breeding, and maintenance
 - Feeding and milking venom of cone snails
 - Museum collection database management, curation, and verification for marine gastropods and birds
-- Preparation and imaging micro-mollusk specimens with scanning electron microsopy
+- Preparation and imaging micro-mollusk specimens with scanning electron microscopy
 
 
 ### Presentations and Awards
@@ -76,10 +73,10 @@ Other
 2018 Leeza L. Lu, James M. Maley, Whitney L.E. Tsai, **Margaret E. Schedl**, John E. McCormack, Morphological Variation in the Spot-crowned Woodcreeper, Summer Undergraduate Research Symposium, Occidental College, Los Angeles, California, USA.
 
 #### Other
-_Talk_ 2018 Devon A. DeRaad, **Margaret E. Schedl**, James M. Maley3 Whitney L.E. Tsai, John E. McCormack, Reappraising biodiversity in the _Aphelocoma_ jays, Kansas Ornithological Society Meeting, Lawrence, Kansas, USA.
+_Talk_ 2018 Devon A. DeRaad, **Margaret E. Schedl**, James M. Maley, Whitney L.E. Tsai, John E. McCormack, Reappraising biodiversity in the _Aphelocoma_ jays, Kansas Ornithological Society Meeting, Lawrence, Kansas, USA.
 
 #### Awards
-AOS Travel Award, grant funding to attend the Amerian Ornithological Soceity Conference 2018
+AOS Travel Award, grant funding to attend the American Ornithological Society Conference 2018
 ASP Travel Grant, funding from the Occidental College Undergraduate Research Center to attend conference
 
 Member of the Phi Beta Kappa Honors Society
