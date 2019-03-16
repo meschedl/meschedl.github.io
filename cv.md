@@ -4,6 +4,8 @@ title: About
 permalink: /About/
 ---
 
+![me4]({{ site.baseurl}}/photography/me/me5.jpg "me4")
+
 ## <center>Margaret E. Schedl</center>
 <center>Department of Biological Sciences, CBLS 190</center>
 <center>University of Rhode Island</center>
@@ -70,6 +72,8 @@ Other
 #### Posters
 2018 **Margaret E. Schedl**, Whitney L.E. Tsai, James M. Maley & John E. McCormack, Comparison of DNA extraction methods from museum specimens. American Ornithological Society Conference, Tucson, Arizona, USA.
 
+![me3]({{ site.baseurl}}/photography/me/me7.jpg "me3")
+
 2018 Leeza L. Lu, James M. Maley, Whitney L.E. Tsai, **Margaret E. Schedl**, John E. McCormack, Morphological Variation in the Spot-crowned Woodcreeper, Summer Undergraduate Research Symposium, Occidental College, Los Angeles, California, USA.
 
 #### Other
@@ -77,9 +81,12 @@ _Talk_ 2018 Devon A. DeRaad, **Margaret E. Schedl**, James M. Maley, Whitney L.E
 
 #### Awards
 AOS Travel Award, grant funding to attend the American Ornithological Society Conference 2018
+
 ASP Travel Grant, funding from the Occidental College Undergraduate Research Center to attend conference
 
+
 Member of the Phi Beta Kappa Honors Society
+
 Distinction in the Senior Comprehensive project in Biology at Occidental College
 
 ### Mentoring
