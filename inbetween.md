@@ -12,7 +12,7 @@ _<center>everything unknown appears magnificent</center>_
 
 ![in3]({{ site.baseurl}}/photography/inbetween/IMG_2036.jpg "in3")
 
-![in4]({{ site.baseurl}}/photography/inbetweens/IMG_E6138 copy.jpg "in4")
+![in4]({{ site.baseurl}}/photography/inbetween/IMG_E6138 copy.jpg "in4")
 
 ![in5]({{ site.baseurl}}/photography/inbetween/IMG_7683 copy.jpg "in5")
 
