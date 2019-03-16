@@ -4,7 +4,7 @@ title:
 permalink: /Reality
 ---
 
-_<center>I think therefore</center_
+_<center>I think therefore</center>_
 
 ![re1]({{ site.baseurl}}/photography/reality/IMG_9859y.jpg "re1")
 
