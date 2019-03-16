@@ -22,6 +22,8 @@ permalink: /
 
 ## Current Projects
 
+
+
 #### I am taking 2 graduate classes this semester! Check out their GitHub repos:
 
 Using Genomic Techniques to Examine the Evolution of Populations [HERE](https://github.com/jpuritz/BIO_594_2019)
