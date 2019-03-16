@@ -4,7 +4,7 @@ title:
 permalink: /Dreams
 ---
 
-_The void is an inverted dream in which we are engulfed_
+_<center>The void is an inverted dream in which we are engulfed</center>_
 
 ![dream1]({{ site.baseurl}}/photography/dreams/IMG_0463 copyonee.jpg "dream1")
 
