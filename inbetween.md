@@ -4,7 +4,7 @@ title:
 permalink: /Inbetween
 ---
 
-_<center>everything unknown appears magnificent<center>_
+_<center>everything unknown appears magnificent</center>_
 
 ![in1]({{ site.baseurl}}/photography/inbetween/IMG_1857.jpg "in1")
 
