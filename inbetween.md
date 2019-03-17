@@ -2,6 +2,7 @@
 layout: page
 title:
 permalink: /Inbetween
+show-avatar: false
 ---
 
 _<center>everything unknown appears magnificent</center>_

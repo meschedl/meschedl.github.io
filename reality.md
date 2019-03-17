@@ -2,6 +2,7 @@
 layout: page
 title:
 permalink: /Reality
+show-avatar: false
 ---
 
 _<center>I think therefore</center>_

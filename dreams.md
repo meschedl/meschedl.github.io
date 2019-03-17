@@ -2,6 +2,7 @@
 layout: page
 title:
 permalink: /Dreams
+show-avatar: false
 ---
 
 _<center>the void is an inverted dream in which we are engulfed</center>_
