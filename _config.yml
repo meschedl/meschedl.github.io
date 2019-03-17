@@ -60,7 +60,7 @@ footer-link-col: "#ccf0ef"
 # page-img: "/img/bgimage.png"
 
 #change blog to other page?
-paginate_path: "/blog/page:num/"
+paginate_path: "/Blog/page:num/"
 
 #pagination
 #gems: [jekyll-paginate]
