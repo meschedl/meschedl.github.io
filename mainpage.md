@@ -39,7 +39,17 @@ GitHub repo for a beginning project for long term eDNA monitoring of Narraganset
 
 ---------------------
 
-**Links**
+**Check out the awesome stuff that my undergraduate lab does!**
+
+The Moore Laboratory of Zoology at Occidental College. Their Instagram is particularly amazing, and I'm not just saying that because I took some of the pictures on there :)
+
+[Website](https://www.oxy.edu/moore-lab-zoology)
+[Instagram](https://www.instagram.com/mlzbirds/)
+[Twitter](https://twitter.com/OxyMLZ)
+
+---------------------
+
+**Social Media Links, and More Importantly My Naturalist-App Profiles**
 
 [eBird](https://ebird.org/profile/OTYxNDAx/)
 
