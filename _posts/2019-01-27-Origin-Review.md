@@ -1,10 +1,8 @@
 ---
-layout: post
 title: Review of On the Origin of Species
 subtitle: Something I put up on Goodreads and decided to include here
-permalink: /Blog
 tags: [books, Darwin, review]
-date: 2019-01-27
+show-avatar: false
 ---
 
 I'm pretty sure I bought this book over two years ago, and for once in my life I am glad that I am really slow at things. It may seem counterintuitive, but this is not a good introduction to the theory of evolution. I am really glad that I have read and consumed much (a relative term) information on the subject before endeavoring to read this. Any modern reader today, without much previous knowlege of evolution, would find the subject, and the book, very boring I'm sure. Of course, that does not mean I didn't like it. You see I have given it 5 stars, in the same way I would give a classic work such as an Emerson or Melville a 5, but I wouldn't think put them on my favorites bookshelf.
