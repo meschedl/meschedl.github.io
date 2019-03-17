@@ -57,4 +57,6 @@ The Moore Laboratory of Zoology at Occidental College. Their Instagram is partic
 [iNaturalist](https://www.inaturalist.org/people/maggieschedl)  
 [Instagram](https://www.instagram.com/letsbeestill/)  
 [Twitter](https://twitter.com/maggie_schedl)  
+
+----------------
 ![me2]({{ site.baseurl}}/photography/me/me1.jpg "me2")
