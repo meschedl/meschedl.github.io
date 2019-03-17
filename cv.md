@@ -81,9 +81,7 @@ _Talk_ 2018 Devon A. DeRaad, **Margaret E. Schedl**, James M. Maley, Whitney L.E
 
 #### Awards
 AOS Travel Award, grant funding to attend the American Ornithological Society Conference 2018  
-ASP Travel Grant, funding from the Occidental College Undergraduate Research Center to attend conference
-
-
+ASP Travel Grant, funding from the Occidental College Undergraduate Research Center to attend conference  
 Member of the Phi Beta Kappa Honors Society  
 Distinction in the Senior Comprehensive project in Biology at Occidental College
 

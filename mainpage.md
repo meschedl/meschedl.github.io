@@ -13,9 +13,9 @@ permalink: /
 
 #### <center>Marine Inverts!</center>
 
-#### Eco-physiology and environmental epigenetics of marine invertebrates [Putnam Lab](http://putnamlab.com/)
-#### Understanding how natural and anthropogenic processes affect the evolution of marine populations [Puritz Lab](http://www.marineevoeco.com/)
-#### Combining ecology and evolution to understand patterns and processes underlying biodiversity [Prada Lab](https://www.carlosprada.org/)
+#### [Putnam Lab](http://putnamlab.com/) Eco-physiology and environmental epigenetics of marine invertebrates
+#### [Puritz Lab](http://www.marineevoeco.com/) Understanding how natural and anthropogenic processes affect the evolution of marine populations
+#### [Prada Lab](https://www.carlosprada.org/) Combining ecology and evolution to understand patterns and processes underlying biodiversity
 
 ------------------------
 
@@ -43,22 +43,16 @@ GitHub repo for a beginning project for long term eDNA monitoring of Narraganset
 
 The Moore Laboratory of Zoology at Occidental College. Their Instagram is particularly amazing, and I'm not just saying that because I took some of the pictures on there :)
 
-[Website](https://www.oxy.edu/moore-lab-zoology)
-
-[Instagram](https://www.instagram.com/mlzbirds/)
-
+[Website](https://www.oxy.edu/moore-lab-zoology)  
+[Instagram](https://www.instagram.com/mlzbirds/)  
 [Twitter](https://twitter.com/OxyMLZ)
 
 ---------------------
 
 **Social Media Links, and More Importantly My Naturalist-App Profiles**
 
-[eBird](https://ebird.org/profile/OTYxNDAx/)
-
-[iNaturalist](https://www.inaturalist.org/people/maggieschedl)
-
-[Instagram](https://www.instagram.com/letsbeestill/)
-
-[Twitter](https://twitter.com/maggie_schedl)
-
+[eBird](https://ebird.org/profile/OTYxNDAx/)  
+[iNaturalist](https://www.inaturalist.org/people/maggieschedl)  
+[Instagram](https://www.instagram.com/letsbeestill/)  
+[Twitter](https://twitter.com/maggie_schedl)  
 ![me2]({{ site.baseurl}}/photography/me/me1.jpg "me2")
