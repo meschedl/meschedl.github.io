@@ -2,6 +2,7 @@
 layout: page
 title: Maggie Schedl
 permalink: /
+show-avatar: false
 ---
 
 ![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")
