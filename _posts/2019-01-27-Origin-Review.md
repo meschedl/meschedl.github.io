@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of On the Origin of Species
-subtitle: Something I put up on Goodreads and decided to expand here
+subtitle: Something I put up on Goodreads and decided to include here
 permalink: /Blog
 tags: [books, Darwin, review]
 date: 2019-01-27
@@ -21,4 +21,4 @@ It is a complex thing to read the book that effectively changed the way people t
 
 _Note in March 2019_
 
-After a few months of taking two classes that have an evolutionary focus, and participating in the RCN coordinated [readings](https://rcn-ecs.github.io/2018_readings/) so far, I feel differently. Mostly I am realizing how the field has changed since Darwin, because he was adamant at thinking that the environment did not effect the evolution of species very much. I think anyone studying any effect of climate change would balk at that. The rise of the ecological species concept, and the vast scientific history between Darwin and now is something I am not knowledgable about, but am hungry to understand. And I am super laughing at myself for thinking I've read enough to read it. I really need to read the Modern Synthesis and the Extended Evolutionary Synthesis. I am really itching to read the extended but I know it would be best for me to read the Huxley first. Being in Hollie's lab really has me thinking about the extended though. 
+After a few months of taking two classes that have an evolutionary focus, and participating in the RCN coordinated [readings](https://rcn-ecs.github.io/2018_readings/) so far, I feel differently. Mostly I am realizing how the field has changed since Darwin, because he was adamant at thinking that the environment did not effect the evolution of species very much. I think anyone studying any effect of climate change would balk at that. The rise of the ecological species concept, and the vast scientific history between Darwin and now is something I am not knowledgable about, but am hungry to understand. And I am super laughing at myself for thinking I've read enough to read it. I really need to read the Modern Synthesis and the Extended Evolutionary Synthesis. I am really itching to read the extended but I know it would be best for me to read the Huxley first. Being in Hollie's lab really has me thinking about the extension of everything.
