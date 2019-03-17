@@ -19,11 +19,11 @@ permalink: /
 
 ------------------------
 
+![reef]({{ site.baseurl}}/photography/me/reef.jpg "reef")  
 
+-----------------------
 
-### Current Projects
-
-
+### Current Projects  
 
 **I am taking 2 graduate classes this semester! Check out their GitHub repos:**
 
