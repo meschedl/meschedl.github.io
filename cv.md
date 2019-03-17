@@ -72,7 +72,7 @@ Other
 #### Posters
 2018 **Margaret E. Schedl**, Whitney L.E. Tsai, James M. Maley & John E. McCormack, Comparison of DNA extraction methods from museum specimens. American Ornithological Society Conference, Tucson, Arizona, USA.
 
-![me3]({{ site.baseurl}}/photography/me/me7.jpg "me3")
+![me3]({{ site.baseurl}}/photography/me/me7.jpeg "me3")
 
 2018 Leeza L. Lu, James M. Maley, Whitney L.E. Tsai, **Margaret E. Schedl**, John E. McCormack, Morphological Variation in the Spot-crowned Woodcreeper, Summer Undergraduate Research Symposium, Occidental College, Los Angeles, California, USA.
 
