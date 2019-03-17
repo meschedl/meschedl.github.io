@@ -80,25 +80,23 @@ Other
 _Talk_ 2018 Devon A. DeRaad, **Margaret E. Schedl**, James M. Maley, Whitney L.E. Tsai, John E. McCormack, Reappraising biodiversity in the _Aphelocoma_ jays, Kansas Ornithological Society Meeting, Lawrence, Kansas, USA.
 
 #### Awards
-AOS Travel Award, grant funding to attend the American Ornithological Society Conference 2018
-
+AOS Travel Award, grant funding to attend the American Ornithological Society Conference 2018  
 ASP Travel Grant, funding from the Occidental College Undergraduate Research Center to attend conference
 
 
-Member of the Phi Beta Kappa Honors Society
-
+Member of the Phi Beta Kappa Honors Society  
 Distinction in the Senior Comprehensive project in Biology at Occidental College
 
 ### Mentoring
 
-Amy Zyck, University of Rhode Island PhD student (2018-present)
-Kevin Wong, University of Rhode Island PhD student (2018-present)
-Cassie Raker, University of Rhode Island PhD student (2018-present)
-Sam Gurr, University of Rhode Island PhD student (2018-present)
-Emma Strand, University of Rhode Island PhD student (present)
-Erin Chille, University of Rhode Island undergraduate (2018-Present)
-Marygrace Trousdell, University of Rhode Island undergraduate (2018-Present)
-Myles Wagner, University of Rhode Island undergraduate (2018-present)
-Miles Collins, Occidental College undergraduate (2018)
-Emily Yue Liang, Occidental College undergraduate (2018)
-Leeza Lu, Occidental College undergraduate (2018)
+Amy Zyck, University of Rhode Island PhD student (2018-present)  
+Kevin Wong, University of Rhode Island PhD student (2018-present)  
+Cassie Raker, University of Rhode Island PhD student (2018-present)  
+Sam Gurr, University of Rhode Island PhD student (2018-present)  
+Emma Strand, University of Rhode Island PhD student (present)  
+Erin Chille, University of Rhode Island undergraduate (2018-Present)  
+Marygrace Trousdell, University of Rhode Island undergraduate (2018-Present)  
+Myles Wagner, University of Rhode Island undergraduate (2018-present)  
+Miles Collins, Occidental College undergraduate (2018)  
+Emily Yue Liang, Occidental College undergraduate (2018)  
+Leeza Lu, Occidental College undergraduate (2018)  
