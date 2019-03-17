@@ -62,10 +62,6 @@ footer-link-col: "#ccf0ef"
 #change blog to other page?
 # paginate_path: "/Blog/page:num/"
 
-#pagination
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "Blog/page:num/"
 
 # --- Footer options --- #
 
@@ -170,6 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "Blog/page:num"
 
 kramdown:
   input: GFM

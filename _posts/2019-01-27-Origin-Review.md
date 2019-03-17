@@ -2,7 +2,7 @@
 layout: post
 title: Review of On the Origin of Species
 subtitle: Something I put up on Goodreads and decided to include here
-permalink: /Blog/page1
+permalink: /Blog
 tags: [books, Darwin, review]
 date: 2019-01-27
 ---
