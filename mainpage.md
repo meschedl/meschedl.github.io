@@ -6,7 +6,7 @@ permalink: /
 
 ![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")
 
-# <center>Budding scientist and artist living in Rhode Island</center>
+# <center>Fledgling scientist and artist living in Rhode Island</center>
 ### <center>Lab Manager and Research Assistant for the Putnam, Puritz, and Prada Labs at the University of Rhode Island</center>
 
 ------------------------
