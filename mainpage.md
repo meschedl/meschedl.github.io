@@ -31,6 +31,8 @@ permalink: /
 
 [Evolutionary and Ecological Genomics](https://github.com/pradac/BIO594_2019)
 
+**Lab Notebooks and Projects**
+
 [Putnam Open Lab Notebook](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/)
 Open for Science, My goal is to facilitate scientific advancement through the open sharing of data and analytical approaches. As with science, this notebook is a work in process, hopefully advancing with every iteration.
 
