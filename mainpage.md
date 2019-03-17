@@ -13,9 +13,9 @@ permalink: /
 
 #### <center>Marine Inverts!</center>
 
-#### <center>Eco-physiology and environmental epigenetics of marine invertebrates [Putnam Lab](http://putnamlab.com/)</center>
-#### <center>Understanding how natural and anthropogenic processes affect the evolution of marine populations [Puritz Lab](http://www.marineevoeco.com/)</center>
-#### <center>Combining ecology and evolution to understand patterns and processes underlying biodiversity [Prada Lab](https://www.carlosprada.org/)</center>
+#### Eco-physiology and environmental epigenetics of marine invertebrates [Putnam Lab](http://putnamlab.com/)
+#### Understanding how natural and anthropogenic processes affect the evolution of marine populations [Puritz Lab](http://www.marineevoeco.com/)
+#### Combining ecology and evolution to understand patterns and processes underlying biodiversity [Prada Lab](https://www.carlosprada.org/)
 
 ------------------------
 
@@ -44,7 +44,9 @@ GitHub repo for a beginning project for long term eDNA monitoring of Narraganset
 The Moore Laboratory of Zoology at Occidental College. Their Instagram is particularly amazing, and I'm not just saying that because I took some of the pictures on there :)
 
 [Website](https://www.oxy.edu/moore-lab-zoology)
+
 [Instagram](https://www.instagram.com/mlzbirds/)
+
 [Twitter](https://twitter.com/OxyMLZ)
 
 ---------------------
