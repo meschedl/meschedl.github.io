@@ -14,7 +14,7 @@ permalink: /
 ### <center>Marine Inverts!</center>
 
 ### <center>Eco-physiology and environmental epigenetics of marine invertebrates [Putnam Lab](http://putnamlab.com/)</center>
-### <center> Understanding how natural and anthropogenic processes affect the evolution of marine populations [Puritz Lab](http://www.marineevoeco.com/)</center>
+### <center>Understanding how natural and anthropogenic processes affect the evolution of marine populations [Puritz Lab](http://www.marineevoeco.com/)</center>
 ### <center>Combining ecology and evolution to understand patterns and processes underlying biodiversity [Prada Lab](https://www.carlosprada.org/)</center>
 
 ------------------------
