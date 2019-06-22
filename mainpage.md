@@ -26,12 +26,6 @@ show-avatar: false
 
 ### Current Projects  
 
-**I am taking 2 graduate classes this semester! Check out their GitHub repos:**
-
-[Using Genomic Techniques to Examine the Evolution of Populations](https://github.com/jpuritz/BIO_594_2019)
-
-[Evolutionary and Ecological Genomics](https://github.com/pradac/BIO594_2019)
-
 **Lab Notebooks and Projects**
 
 [Putnam Open Lab Notebook](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/)
@@ -39,6 +33,20 @@ Open for Science, My goal is to facilitate scientific advancement through the op
 
 [Narraganset Bay eDNA Project](https://github.com/meschedl/Narragansett_Bay_eDNA)
 GitHub repo for a beginning project for long term eDNA monitoring of Narraganset Bay
+
+[RNASeq of Larval Oysters Subjected to Multiple Coastal Stressors Repo](https://github.com/meschedl/Larval-Oyster-CASE-RNA)  
+RNASeq Analysis for Coastal Acidification, Sewage Effluent, and Multiple Stressors on Eastern Oyster Larvae for the Puritz Lab!
+
+[Purtiz Lab Notebook](https://meschedl.github.io/MES_Puritz_Lab_Notebook/)  
+Notebook for my labwork in the Puritz lab, a little slow going but getting there! 
+
+
+**I took 2 graduate classes last semester! Check out their GitHub repos:**
+
+[Using Genomic Techniques to Examine the Evolution of Populations](https://github.com/jpuritz/BIO_594_2019)
+
+[Evolutionary and Ecological Genomics](https://github.com/pradac/BIO594_2019)
+
 
 ---------------------
 
