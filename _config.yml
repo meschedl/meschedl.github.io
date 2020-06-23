@@ -17,14 +17,12 @@ baseurl: ""
 title: Maggie Schedl
 
 # Short description of your site
-description: It Me!
+description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About: "About"
-  Blog: "Blog"
   Photography:
     - Dreams: "Dreams"
     - Reality: "Reality"
@@ -69,7 +67,6 @@ footer-link-col: "#ccf0ef"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Maggie Schedl
-  quote: there are an infinate amount of points between two points
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
