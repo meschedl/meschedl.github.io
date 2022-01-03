@@ -7,13 +7,14 @@ show-avatar: false
 
 ![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")
 
+<div align="center">
+ ## Current Position: Lab Technician for the Unckless Lab at the University of Kansas
+  </div>
 
-### <center> Current Position: Lab Technician for the Unckless Lab at the University of Kansas</center>
-
-<img src="https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png" width=50% height=50%>
+![fly](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png)
 ------------------------
 
-### Please visit the [website](http://www.uncklesslab.com/) for the Unckless Lab!
+**Please visit the [website](http://www.uncklesslab.com/) for the Unckless Lab!**
 
 ![labimage](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/UncklessLabF2021.jpg)
 
@@ -34,7 +35,7 @@ My previous position was a lab manager and research assistant for 3 labs at the 
 - [RNASeq Analysis of Echinometra Sea Urchins at Multiple Life Stages and Temperatures](https://github.com/meschedl/Echinometra_RNASeq)
 
 
-**Social Media Links, and More Importantly My Naturalist-App Profiles**
+**Social Media Links and Naturalist-App Profiles**
 
 [eBird](https://ebird.org/profile/OTYxNDAx/)  
 [iNaturalist](https://www.inaturalist.org/people/maggieschedl)  
