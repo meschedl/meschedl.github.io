@@ -8,15 +8,15 @@ show-avatar: false
 ![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")
 
 
-### <center> Current Position: Lab Manager and Research Assistant for the Putnam, Puritz, and Prada Labs at the University of Rhode Island</center>
+### <center> Current Position: Lab Technician for the Unckless Lab at the University of Kansas</center>
+
+![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png)
 
 ------------------------
 
-#### <center>The Three Labs I work for</center>
+#### <center>Please visit the [website](http://www.uncklesslab.com/ for the Unckless Lab!</center>
 
-#### [Putnam Lab](http://putnamlab.com/) Eco-physiology and environmental epigenetics of marine invertebrates
-#### [Puritz Lab](http://www.marineevoeco.com/) Understanding how natural and anthropogenic processes affect the evolution of marine populations
-#### [Prada Lab](https://www.carlosprada.org/) Combining ecology and evolution to understand patterns and processes underlying biodiversity
+![labimage](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/UncklessLabF2021.jpg)
 
 ------------------------
 
@@ -26,19 +26,17 @@ show-avatar: false
 
 **Lab Notebooks and Projects**
 
-[Putnam Open Lab Notebook](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/)
+[Unckless Lab Notebook](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/)
 
 
-[Narraganset Bay eDNA Project](https://meschedl.github.io/eDNA/)
+My previous position was a lab manager and research assistant for 3 labs at the University of Rhode Island: [Putnam Lab](http://putnamlab.com/), [Puritz Lab](http://www.marineevoeco.com/), and [Prada Lab](https://www.carlosprada.org/), and I had many notebooks and projects there:
 
-
-[RNASeq of Larval Oysters Subjected to Multiple Coastal Stressors Repo](https://github.com/meschedl/Larval-Oyster-CASE-RNA)  
-
-
-[Purtiz Lab Notebook](https://meschedl.github.io/MES_Puritz_Lab_Notebook/)  
-
-
-[RNASeq Analysis of Echinometra Sea Urchins at Multiple Life Stages and Temperatures](https://github.com/meschedl/Echinometra_RNASeq)
+- [PPP Lab Resources](https://github.com/meschedl/PPP-Lab-Resources)
+- [Putnam Open Lab Notebook](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/)
+- [Narraganset Bay eDNA Project](https://meschedl.github.io/eDNA/)
+- [RNASeq of Larval Oysters Subjected to Multiple Coastal Stressors Repo](https://github.com/meschedl/Larval-Oyster-CASE-RNA)  
+- [Purtiz Lab Notebook](https://meschedl.github.io/MES_Puritz_Lab_Notebook/)  
+- [RNASeq Analysis of Echinometra Sea Urchins at Multiple Life Stages and Temperatures](https://github.com/meschedl/Echinometra_RNASeq)
 
 
 **Social Media Links, and More Importantly My Naturalist-App Profiles**
