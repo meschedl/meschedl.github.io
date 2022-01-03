@@ -10,17 +10,12 @@ show-avatar: false
 
 ### <center> Current Position: Lab Technician for the Unckless Lab at the University of Kansas</center>
 
-![](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png)
-
+<img src="https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png" width=50% height=50%>
 ------------------------
 
 #### <center>Please visit the [website](http://www.uncklesslab.com/) for the Unckless Lab!</center>
 
 ![labimage](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/UncklessLabF2021.jpg)
-
-------------------------
-
-![reef]({{ site.baseurl}}/photography/me/reef.jpg "reef")  
 
 -----------------------
 
