@@ -10,8 +10,11 @@ show-avatar: false
 <div align="center">
  <big>Current Position: Lab Technician for the Unckless Lab at the University of Kansas</big>
   </div>
+  
+<p align="center">
+    <img src="https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.pn">
+p>
 
-![fly](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png)
 ------------------------
 
 **Please visit the [website](http://www.uncklesslab.com/) for the Unckless Lab!**
