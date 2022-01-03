@@ -12,10 +12,6 @@ show-avatar: false
  <img src="https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png">
   </div>
   
-<p align="center">
-    <img src="https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png">
-p>
-
 ------------------------
 
 **Please visit the [website](http://www.uncklesslab.com/) for the Unckless Lab!**
