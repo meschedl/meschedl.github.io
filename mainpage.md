@@ -14,7 +14,7 @@ show-avatar: false
 
 ------------------------
 
-#### <center>Please visit the [website](http://www.uncklesslab.com/ for the Unckless Lab!</center>
+#### <center>Please visit the [website](http://www.uncklesslab.com/) for the Unckless Lab!</center>
 
 ![labimage](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/UncklessLabF2021.jpg)
 
