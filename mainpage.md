@@ -22,8 +22,11 @@ show-avatar: false
 
 **Lab Notebooks and Projects**
 
-[Unckless Lab Notebook](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/)
+[Unckless Lab Notebook](https://meschedl.github.io/Unckless-Lab-Notebook-Maggie/) Here is my lab notebook for all labwork done in the Unckless Lab   
+[DiNV-DV-1 Genome Integration](https://github.com/meschedl/DiNV-Dv1-Genome-Integration) Here is all the code and information for the project investigating whether DiNV integrates into the DV-1 cells' genome during infection  
+[Unckless Lab Resources](https://github.com/meschedl/Unckless_Lab_Resources) Here is a repository for code that doesn't have a full fledged project, and other resources and protocols I generate in the Unckless Lab 
 
+![medoingcellculture](https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/FQEk5_3XIAAJkLR.jpg)
 
 My previous position was a lab manager and research assistant for 3 labs at the University of Rhode Island: [Putnam Lab](http://putnamlab.com/), [Puritz Lab](http://www.marineevoeco.com/), and [Prada Lab](https://www.carlosprada.org/), and I had many notebooks and projects there:
 
