@@ -8,7 +8,7 @@ show-avatar: false
 ![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")
 
 <div align="center">
- <big>Current Position: Lab Technician for the Unckless Lab at the University of Kansas</big>
+ <big>Current Position: Master's Student in the Unckless Lab at the University of Kansas</big>
  <br><img src="https://raw.githubusercontent.com/meschedl/Unckless-Lab-Notebook-Maggie/master/images/drosophila_transparent.png">
   </div>
   
