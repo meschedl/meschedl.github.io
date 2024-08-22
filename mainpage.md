@@ -9,7 +9,7 @@ show-avatar: false
 
 <div align="center">
  <big>Current Position: Molecular Biology and Genomics Consultant at The Moore Lab of Zoology</big>
- <br><img src="[](https://raw.githubusercontent.com/meschedl/Unckless_Lab_Resources/main/images/me_KU1.jpg)">
+ <br><img src="https://raw.githubusercontent.com/meschedl/Unckless_Lab_Resources/main/images/me_KU1.jpg">
   </div>
   
 ------------------------
