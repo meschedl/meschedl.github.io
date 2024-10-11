@@ -5,11 +5,10 @@ permalink: /resume
 show-avatar: false
 ---
 
-# Margaret Schedl, MSc
 
 [margaretschedl@gmail.com](mailto:margaretschedl@gmail.com) 
 
-Molecular Biologist with 8+ years of experience working in academic research laboratories looking to make the transition to industry. My broad range of work experience has allowed me to gain many laboratory techniques and the confidence to learn any new laboratory skill. I have managed a dynamic and multi-faceted laboratory space and trained 30+ individuals in SOPs and safety measures. I have a special interest in SOP development, and I take pride in generating clear and detailed documentation for reproducible science.
+Molecular Biologist with 8+ years of experience working in academic research laboratories. My broad range of work experience has allowed me to gain many laboratory techniques and the confidence to learn any new laboratory skill. I have managed a dynamic and multi-faceted laboratory space and trained 30+ individuals in SOPs and safety measures. I have a special interest in SOP development, and I take pride in generating clear and detailed documentation for reproducible science.
 
 ## Skills
 
