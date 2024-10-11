@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maggie Schedl
+title: Margaret Schedl
 permalink: /
 show-avatar: false
 ---
