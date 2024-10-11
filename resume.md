@@ -5,6 +5,7 @@ permalink: /resume
 show-avatar: false
 ---
 
+## Margaret Schedl, MSc
 
 [margaretschedl@gmail.com](mailto:margaretschedl@gmail.com) 
 
