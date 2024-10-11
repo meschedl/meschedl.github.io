@@ -1,3 +1,10 @@
+---
+layout: page
+title:
+permalink: /Resume
+show-avatar: false
+---
+
 # Margaret Schedl, MSc
 
 [margaretschedl@gmail.com](mailto:margaretschedl@gmail.com) 
