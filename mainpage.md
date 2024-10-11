@@ -5,13 +5,11 @@ permalink: /
 show-avatar: false
 ---
 
-![me1]({{ site.baseurl}}/photography/me/me3.jpg "me1")
+ <big> Margaret Schedl, MSc Molecular Biologist</big>
 
-
- <big>Current Position: Molecular Biology and Genomics Consultant at The Moore Lab of Zoology</big>
  <br><img src="https://raw.githubusercontent.com/meschedl/Unckless_Lab_Resources/main/images/me_KU1.jpg">  
  
- <big>I am actively looking for a permanent  Biotech industry or core lab position in the Los Angeles area! Please contact me at margaretschedl@gmail.com</big>
+ <big>I am actively looking for a permanent Biotech industry, core lab, or medical research position in the Los Angeles area! Please contact me at margaretschedl@gmail.com</big>
   
 ------------------------
 
