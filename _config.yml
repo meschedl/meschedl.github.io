@@ -23,6 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+  Resume:
   Photography:
     - Dreams: "Dreams"
     - Reality: "Reality"
@@ -77,7 +78,7 @@ social-network-links:
   email: "margaretschedl@gmail.com"
   # facebook:
   github: meschedl
-  twitter: maggie_schedl
+#  twitter: maggie_schedl
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
