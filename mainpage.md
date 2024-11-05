@@ -7,7 +7,7 @@ show-avatar: false
 
  <big> Margaret Schedl, MSc Molecular Biologist</big>
 
- <br><img src="https://raw.githubusercontent.com/meschedl/Unckless_Lab_Resources/main/images/me-KU2.JPG">  
+ <br><img src="https://raw.githubusercontent.com/meschedl/Unckless_Lab_Resources/main/images/me-KU2.jpg">  
  
  <big>I am actively looking for a permanent Biotech industry, core lab, or medical research position in the Los Angeles area! Please contact me at margaretschedl@gmail.com</big>
   
